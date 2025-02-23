@@ -1,12 +1,5 @@
 # Python
 
-### **Steps to Update `README.md`**  
-
-1. Open your `README.md` file.  
-2. Add the **20 Python variable practice questions**.  
-3. Commit and push the changes to GitHub.  
-
----
 
 ### **Updated `README.md` Content**  
 
