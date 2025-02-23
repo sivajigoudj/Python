@@ -1,7 +1,4 @@
-# Python
-
-
-### **Updated `README.md` Content**  
+#Python
 
 ```md
 # Python Variable Practice
@@ -33,25 +30,14 @@ This repository contains **20 Python practice exercises** focused on **variables
 
 ## 📂 File Structure
 
-- `python_variable_practice.py` → Contains solutions for all 20 exercises.  
+```
+python/
+  └── variables/
+        └── python_variable_practice.py
+```
 
 ## 🚀 How to Run
 
 ```bash
-python python_variable_practice.py
+python python/variables/python_variable_practice.py
 ```
-
-## 🔗 Contributing
-Feel free to fork, modify, and submit a pull request. Happy coding! 🎯
-```
-
----
-
-### **Commit Message**  
-```bash
-git add README.md
-git commit -m "Updated README with 20 Python variable practice questions"
-git push origin main  # Change 'main' if your branch name is different
-```
-
-This will update your README on GitHub. Let me know if you need any changes! 🚀
